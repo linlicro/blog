@@ -112,5 +112,5 @@ brew install lazygit
 
 ## 其他
 
-视屏教程参考: [here](https://www.youtube.com/watch?v=VDXvbHZYeKY)
+视频教程参考: [here](https://www.youtube.com/watch?v=VDXvbHZYeKY)
 
