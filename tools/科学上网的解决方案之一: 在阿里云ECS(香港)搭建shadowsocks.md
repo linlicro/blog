@@ -36,7 +36,7 @@ vim /etc/shadowsocks.json
 ## 3. 启动shadowsocks
 
 ```
-[root@izj6c4ry7519t8rkroriqwz ~]# ssserver -c /etc/shadowsocks.json -d start
+[root@*** ~]# ssserver -c /etc/shadowsocks.json -d start
 INFO: loading config from /etc/shadowsocks.json
 2018-11-04 11:38:08 WARNING  warning: your timeout 3000 seems too long
 2018-11-04 11:38:08 INFO     loading libcrypto from libcrypto.so.10
